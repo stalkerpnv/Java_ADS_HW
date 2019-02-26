@@ -13,7 +13,7 @@ import java.util.Arrays;
 public class Homework2 {
     public static void main(String[] args) {
         long start, stoptime;
-        MyArr arr =new MyArr(1000);
+        MyArr arr =new MyArr(1000000);
         arr.insertRandomv();
         //System.out.println(arr);
 
